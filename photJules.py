@@ -1,4 +1,5 @@
 import numpy as np
+import pylab as plt
 #import bethy_fapar  as fapar  
 
 class photosynthesis():
@@ -58,7 +59,7 @@ class photosynthesis():
         self.defaults()
 
         self.photosynthesis()
-        import pylab as plt
+        
         plt.clf()
         plt.plot(self.Tc,self.Wc * 1e6,label='Wc')
         plt.plot(self.Tc,self.Wl * 1e6,label='Wl')
@@ -462,7 +463,7 @@ class photosynthesis():
         glco2 = self.gl/self.ratio
         self.gl = self.ratio * glco2
 
-        self.Al[w] = -self.Rd * self.beta 
+        self.Al[w] = -self.Rd[w] * self.beta[w] 
 
         # quadratic for O3
         # requires:
