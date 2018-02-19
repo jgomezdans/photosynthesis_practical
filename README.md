@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jgomezdans/photosynthesis_practical/master)
+
 # UCL GEOGG124 Modelling practical
 
 ## J Gómez-Dans & P Lewis
@@ -8,7 +10,7 @@ This is the leaf modelling practical for the [Geogg124 course](http://www2.geog.
 
 *(This is the recommended method, although it runs the notebook on the cloud, and we have no control over it*)
 You can usually just run the practical by clicking in the following icon:
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jgomezdans/photosynthesis_practical/update2018?filepath=ModellingPractical.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jgomezdans/photosynthesis_practical/master)
 
 ### Running on UCL's system
 
