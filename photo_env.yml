@@ -1,0 +1,8 @@
+name: photo_env
+
+dependencies:
+    - python=3.6
+    - numpy
+    - scipy
+    - matplotlib
+    - pyephem
