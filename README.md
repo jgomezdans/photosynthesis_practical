@@ -1,10 +1,10 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jgomezdans/photosynthesis_practical/master)
 
-# UCL GEOGG124 Modelling practical
+# UCL GEOGG133 Modelling practical
 
 ## J Gómez-Dans & P Lewis
 
-This is the leaf modelling practical for the [Geogg124 course](http://www2.geog.ucl.ac.uk/~plewis/geogg124/) at [UCL](http://www.geog.ucl.ac.uk). This practical will demonstrate a simple photosynthesis model, and allow you to explore different limitations to photosynthesis, as well as test some of the most commonly made assumptions in general dynamic global vegetation models (DGVMs).
+This is the leaf modelling practical for the [Geogg133 course](https://geog0133.readthedocs.io/) at [UCL](http://www.geog.ucl.ac.uk). This practical will demonstrate a simple photosynthesis model, and allow you to explore different limitations to photosynthesis, as well as test some of the most commonly made assumptions in general dynamic global vegetation models (DGVMs).
 
 ### Running the practical anywhere
 
